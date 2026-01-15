@@ -1,3 +1,3 @@
 # beginning-demo
 this is my first repo
-author - nikhil
+author - nikhil arksali
